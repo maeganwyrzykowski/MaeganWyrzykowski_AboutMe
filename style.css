@@ -1,0 +1,29 @@
+
+
+/*background image*/
+.hero-image {
+    background-image: url(Assets/watercolor-background.jpg);
+    background-color: #cccccc;
+    height: 100%;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    position: relative;
+}
+
+
+/* about me section */
+body {
+    font-family: 'Quicksand', sans-serif;
+}
+
+
+footer {
+    text-align: center;
+    padding: 3px;
+    background-color: rgb(46, 45, 45);
+    color: white;
+    font-family: 'Quicksand', sans-serif;
+  }
+
+

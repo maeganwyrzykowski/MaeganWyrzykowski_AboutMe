@@ -1,0 +1,18 @@
+.my-name {
+    font-family: 'Quicksand', sans-serif;
+    font-size: 30px;
+
+}
+
+a{
+    color: white;
+    text-decoration: none;
+    background-color: transparent;
+    
+
+}
+a:hover {
+    text-decoration: none;
+    color: white
+    
+}
